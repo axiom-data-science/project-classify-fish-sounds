@@ -1,0 +1,4 @@
+,Selection,View,Channel,Begin Time (s),End Time (s),Low Freq (Hz),High Freq (Hz),Begin File,Delta Time (s),File Offset (s),call variant,level,call cutoff @ end,calls overlap,Notes
+0,1,Spectrogram 1,1,109.121356582,110.582260117,118.042,472.169,DSG 151_Station B51-000.7946.YMD_2009_06_18_HMS_13_02_00.dsg_RAWD_HMS_13_ 2_ 0__DMY_18_ 6_ 9.wav,1.4609,3.9138,9,3,2,2,
+1,2,Spectrogram 1,1,123.109650295,123.834685524,124.255,461.815,DSG 151_Station B51-000.8874.YMD_2009_06_20_HMS_23_02_00.dsg_RAWD_HMS_23_ 2_ 0__DMY_20_ 6_ 9.wav,0.725,3.9344,9,3,2,2,
+2,3,Spectrogram 1,1,22.803321155,23.438529011,134.61,414.184,DSG 151_Station B51-000.4522.YMD_2009_06_09_HMS_15_02_00.dsg_RAWD_HMS_15_ 2_ 0__DMY_ 9_ 6_ 9.wav,0.6352,1.8519,9,3,2,2,

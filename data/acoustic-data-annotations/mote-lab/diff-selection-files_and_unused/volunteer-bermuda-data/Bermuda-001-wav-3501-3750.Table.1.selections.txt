@@ -1,0 +1,6 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Delta Time (s)	File Offset (s)	call variant	level	call cutoff @ end	calls overlap	Notes	false positive
+1	Spectrogram 1	1	171.383700850	171.520907880	1.049	184.564	3517.DSG_RAWD_HMS_10_10_ 0__DMY_22_ 9_15.wav	0.1372	0.9901	3	2	2	2		2
+2	Spectrogram 1	1	844.988217100	847.373005955	32.508	169.883	3580.DSG_RAWD_HMS_15_25_ 0__DMY_22_ 9_15.wav	2.3848	3.6698	1	2	2	2		2
+3	Spectrogram 1	1	1243.371421397	1243.691571134	0.000	139.471	3617.DSG_RAWD_HMS_18_30_ 0__DMY_22_ 9_15.wav	0.3201	8.0178	3	1	2	2		2
+4	Spectrogram 1	1	1357.082697023	1357.239505057	0.000	230.705	3628.DSG_RAWD_HMS_19_25_ 0__DMY_22_ 9_15.wav	0.1568	4.5835	3	1	2	2		2
+5	Spectrogram 1	1	2617.930046152	2619.674535534	52.433	174.077	3746.DSG_RAWD_HMS_ 5_15_ 0__DMY_23_ 9_15.wav	1.7445	8.3684	1	2	2	2		2

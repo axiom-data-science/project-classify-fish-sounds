@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Begin File	Delta Time (s)	File Offset (s)	call variant	level	call cutoff @ end	calls overlap	Notes
+1	Spectrogram 1	1	123.372699193	125.516372811	32.677	319.668	LH1202202007.WAV	2.1437	3.3727	23	3	2	2	
+2	Spectrogram 1	1	186.526041183	189.412854989	14.207	594.247	LH1202205607.WAV	2.8868	6.5261	17	2	2	2	
+3	Spectrogram 1	1	760.060418162	762.566134436	56.830	358.028	LH1202240408.WAV	2.5057	0.0604	23	3	2	2	

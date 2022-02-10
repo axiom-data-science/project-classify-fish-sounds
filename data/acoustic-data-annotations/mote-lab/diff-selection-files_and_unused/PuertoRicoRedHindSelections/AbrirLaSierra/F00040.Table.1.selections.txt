@@ -1,0 +1,2 @@
+"Selection,View,Channel,Begin Time (s),End Time (s),Low Freq (Hz),High Freq (Hz),Begin File,Delta Time (s),File Offset (s),call variant,level,call cutoff @ end,calls overlap,Notes"
+"1,Spectrogram 1,1,1008.039324019,1009.401747697,49.726,308.302,LH1204864807.WAV,1.3624,8.0393,17,3,2,2,"

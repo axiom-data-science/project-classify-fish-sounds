@@ -1,0 +1,7 @@
+click
+librosa
+fastai
+matplotlib
+pandas
+pydub
+torchaudio
