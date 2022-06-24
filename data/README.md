@@ -12,6 +12,7 @@ used to generate spectrograms (`create_spectrograms.py`) that make up the traini
 ## Dataset Labels
 
 | Call Index | Description |
+|------------|-------------|
 |    0  |   Background noise (no fish vocalizations) |
 |    1  |   Black grouper 1 |
 |    2  |   Black grouper 2 |
@@ -29,11 +30,6 @@ used to generate spectrograms (`create_spectrograms.py`) that make up the traini
 |    27 |   Multi-phase goliath grouper |
 |    28 |   Sea trout chorus |
 |    29 |   Silver perch call |
-|    30 |   Snowy grouper primary call |
-|    33 |   Gag grouper primary call |
-|    34 |   Manatee primary call |
-|    35 |   Mantaee click |
-|    36 |   Mantee chrip |
 
 ## Annotation data
 
