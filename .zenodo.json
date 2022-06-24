@@ -1,0 +1,25 @@
+{
+    "description": "<p>A brief update to the readme.</p>", 
+    "license": "other-open", 
+    "title": "axiom-data-science/project-classify-fish-sounds", 
+    "upload_type": "software", 
+    "creators": [
+        {
+            "affiliation": "@axiom-data-science", 
+            "name": "Jesse Lopez"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/axiom-data-science/project-classify-fish-sounds", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.6727738", 
+            "relation": "isNewVersionOf"
+        }
+    ]
+}

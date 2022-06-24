@@ -1,5 +1,8 @@
 # Fish Sound Detector
 
+[![DOI](https://zenodo.org/badge/506380623.svg)](https://zenodo.org/badge/latestdoi/506380623)
+
+
 This repo is a collection of data, a Python library to work with Raven annotation files and generate spectrograms, and a model to detect
 the vocalization of fish sounds from spectrograms generated from hydrophones as part of a collaboration between [Mote Marine Laboratory & Aquarium](https://mote.org), [Southeast Coastal Ocean Observing Regional Association](https://secoora.org), and [Axiom Data Science](https://axiomdatascience.com).
 
