@@ -26,8 +26,8 @@ subset of annotated data that both undersamples classes with many examples and o
 
 ### Models
 
-The model created in the notebook `train-resetnet101-fastai.ipynb` is saved in `models` and available from [Huggingface Hub](https://huggingface.co/axds/classify-fish-sounds).
+The model created in the notebook `train-resetnet101-fastai.ipynb` is saved in `models` and available from [Huggingface Hub](https://huggingface.co/axds/classify-fish-sounds) (`models/axds/classify-fish-sounds`).
 
 ### Demo
 
-A running demo of the model is available on [Huggingface Spaces](https://huggingface.co/spaces/axds/classify-fish-sounds).
+A running demo of the model is available on [Huggingface Spaces](https://huggingface.co/spaces/axds/classify-fish-sounds) (`src/classify-fish-sounds`).
