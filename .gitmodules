@@ -1,0 +1,6 @@
+[submodule "src/classify-fish-sounds"]
+	path = src/classify-fish-sounds
+	url = https://huggingface.co/spaces/axds/classify-fish-sounds
+[submodule "models/axds/classify-fish-sounds"]
+	path = models/axds/classify-fish-sounds
+	url = https://user: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@huggingface.co/axds/classify-fish-sounds
